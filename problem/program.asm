@@ -1,4 +1,4 @@
-// COLOCA AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// Juan Gabriel Arango Perez
+// 000402035
+// juan.arangop@upb.edu.co
 
